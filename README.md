@@ -1,6 +1,6 @@
 ## Load nib as UITableViewCell
 
-This is a sample project to demonstrate how to load a UITableViewCell from a nib.
+This is a sample project to demonstrate how to load a `UITableViewCell` from a nib.
 
 This used to be documented by Apple in the "Table View Programming Guide", but the method has been deprecated by StoryBoards.
 
